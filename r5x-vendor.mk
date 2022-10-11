@@ -3583,5 +3583,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
+    qti-telephony-common \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.qti.gnss@4.0-service
